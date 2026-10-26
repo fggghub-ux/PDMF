@@ -1,0 +1,25 @@
+Dexie 4.4.6
+Copyright (c) 2014-present David Fahlander
+Licensed under the Apache License 2.0.
+https://dexie.org/
+
+Remix Icon 4.6.0
+Copyright RemixIcon.com
+Licensed under the Apache License 2.0.
+https://remixicon.com/
+
+The Apache License 2.0 text is included in LICENSE-APACHE-2.0.txt.
+
+Heroicons 2 — HiCamera (via React Icons hi2)
+Copyright (c) Tailwind Labs, Inc.
+Licensed under the MIT License.
+https://heroicons.com/
+
+Ionicons 4 — IoIosFlashlight (via React Icons io)
+Copyright (c) Ionic / Drifty Co.
+Licensed under the MIT License.
+https://ionicons.com/
+
+JSZip 3.10.1 (https://github.com/Stuk/jszip) — MIT or GPLv3.
+Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Antonio Afonso.
+Bundled minified distribution includes its license banner.
