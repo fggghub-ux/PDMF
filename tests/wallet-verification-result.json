@@ -1,0 +1,28 @@
+{
+  "passed": 23,
+  "checks": [
+    "wallet identity is registered",
+    "wallet launcher carries only stable app id",
+    "wallet route resolves page and feature from stable app id",
+    "wallet page selector is unique",
+    "wallet feature is registered by feature runtime",
+    "feature bundle is build-version sealed",
+    "wallet waits for initialized data layer",
+    "wallet data is an account scoped persistent key",
+    "wallet uses scoped app storage APIs",
+    "credential edits reconcile every matching app session",
+    "legacy claim is created only when legacy rows exist",
+    "wallet bottom dock has finance couple wallet",
+    "wallet exposes requested primary functions",
+    "wallet asset panel exposes recharge and withdraw actions",
+    "wallet recharge and withdraw reuse global centered modal and mutate balance",
+    "wallet home has explicit visual hierarchy",
+    "wallet home styling avoids gradients and shadows",
+    "wallet dock uses an inner selected surface without separators",
+    "wallet page geometry is owned by canonical global primitives",
+    "wallet start offset inherits global page scroll instead of recalculating top",
+    "wallet icons all exist in bundled font subset",
+    "wallet UI consumes global mother sizing only",
+    "resource versions match app version"
+  ]
+}
